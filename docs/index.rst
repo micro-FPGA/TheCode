@@ -1,4 +1,5 @@
-Howto
-=====
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
 
-paragraph text
+   Comments <Comments>
