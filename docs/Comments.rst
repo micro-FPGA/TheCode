@@ -8,13 +8,15 @@ Comments can be of two different styles, either
  * block comment - comment text can span multiple lines
  
 Common line end comment delimiters are
- * #
- * //
- * REM
+ * ``#``
+ * ``//``
+ * ``--``
+ * ``REM``
+ 
   
 Common block comment delimiters are  
- * /* .. */ 
- * (* .. *)
+ * ``/*`` .. ``*/`` 
+ * ``(*`` .. ``*)``
  
 
 
