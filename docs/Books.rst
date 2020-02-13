@@ -1,6 +1,8 @@
 Books to read
 =============
 
+There are plenty of nice tutorials about several languages at `W3schools <https://www.w3schools.com/>`_ - they are mostly covered in the context of Web programming.
+
 There are plenty of free books about Programming Languages at `WikiBooks Bookshelf <https://en.wikibooks.org/wiki/Shelf:Computer_programming_languages>`_ some are good some very much work in progress.
 
 Some good WikiBooks
