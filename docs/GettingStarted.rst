@@ -49,4 +49,13 @@ Block statements are blocks of statements that are grouped together, usually mar
  * ``{`` .. ``}``
  * ``(`` .. ``)``
  
+ Strings
+ =======
  
+ Most languages support some sort of strings, common delimiters are:
+  * ``"`` .. ``"``
+  * ``´`` .. ``´``
+  
+ 
+ 
+
