@@ -1,4 +1,4 @@
-n.. toctree::
+.. toctree::
    :maxdepth: 3
    :caption: Learning a new Language:
 
