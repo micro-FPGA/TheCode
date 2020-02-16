@@ -18,5 +18,3 @@ Common block comment delimiters are
  * ``/*`` .. ``*/`` 
  * ``(*`` .. ``*)``
  
-
-
