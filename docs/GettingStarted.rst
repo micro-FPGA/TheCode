@@ -58,7 +58,7 @@ Strings
  
 Most languages support some sort of strings, common delimiters are:
  * ``"`` .. ``"``
- * ``´`` .. ``´``
+ * ``'`` .. ``'``
   
 Numbers
 -------
@@ -76,12 +76,14 @@ Keywords
 todo
  
  
-Hello World
-===========
- 
+Hello World!
+============
+ Hello World is possible the most famous program in any language. It is very simple program if executed on any modern host O/S. Writing a Hello World for embedded system may be more complicated.
  
 C
 -
+
+
 
 
 JavaScript/WShell
