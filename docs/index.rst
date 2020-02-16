@@ -1,7 +1,8 @@
-.. toctree::
+n.. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: Learning a new Language:
 
+   GettingStarted
    Comments
    Statements
    Books
