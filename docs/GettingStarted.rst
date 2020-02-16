@@ -37,5 +37,4 @@ Block statements are blocks of statements that are grouped together, usually mar
  * ``{`` .. ``}``
  * ``(`` .. ``)``
  
- .. include:: Statements.rst
  
