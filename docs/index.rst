@@ -4,6 +4,6 @@
    :caption: Learning a new Language:
 
    GettingStarted
-      Comments
-      Statements
+   Comments
+   Statements
    Books
