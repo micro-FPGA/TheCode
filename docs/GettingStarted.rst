@@ -60,8 +60,8 @@ Most languages support some sort of strings, common delimiters are:
  * ``"`` .. ``"``
  * ``´`` .. ``´``
   
- Numbers
- -------
+Numbers
+-------
  
 todo 
  
