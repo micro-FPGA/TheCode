@@ -105,7 +105,7 @@ Pascal/Delphi
 
     Program HelloWorld;
     begin
-        Write("Hello World!)
+        Write('Hello World!')
     end.
  
 Python
