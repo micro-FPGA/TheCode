@@ -2,7 +2,15 @@
 Getting Started
 ***************
 
-todo
+
+Source (Quellcode) code is normally written by humans. Machine (or a computer program) can also generate source code during the translation process of the original quellcode, this would be "generated source code" and should normally not be read or modified by the humans.  
+
+
+Source (quell) code
+=================== 
+
+
+
 
 
 Comments
