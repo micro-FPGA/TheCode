@@ -102,12 +102,24 @@ Pascal/Delphi
 -------------
 
 .. code:: pascal
+
     Program HelloWorld;
     begin
         Write("Hello World!)
     end.
  
- 
+Python
+------
+
+
+
+
+
+
+
+
+
+
  
  
 
