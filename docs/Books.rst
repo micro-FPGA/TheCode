@@ -1,5 +1,6 @@
+*************
 Books to read
-=============
+*************
 
 There are plenty of nice tutorials about several languages at `W3schools <https://www.w3schools.com/>`_ - they are mostly covered in the context of Web programming.
 
