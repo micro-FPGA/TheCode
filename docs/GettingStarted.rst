@@ -2,16 +2,20 @@
 Getting Started
 ***************
 
+Source code
+===========
+Source (Quellcode) code is normally written by humans. Machine (or a computer program) can also generate source code during the translation process of the original quellcode, this would be "generated source code" and should normally not be read or modified by the humans. 
 
-Source (Quellcode) code is normally written by humans. Machine (or a computer program) can also generate source code during the translation process of the original quellcode, this would be "generated source code" and should normally not be read or modified by the humans.  
+Language types
+==============
 
+At highest level there are two types of languages:
+ * Programming languages
+ * Description (markup) languages
 
-Source (quell) code
-=================== 
-
-
-
-
+Source code of programming languages is either directly executed or translated to object code or bytecode:
+ * interpreted languages also scripts
+ * compiled languages
 
 Comments
 ========
