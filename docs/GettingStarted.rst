@@ -89,8 +89,7 @@ JavaScript/WSHell
 
 .. code:: javascript
     
-    WShell.echo("Hello World")
-
+    WScript.echo("Hello World!")
 
 Pascal/Delphi
 -------------
