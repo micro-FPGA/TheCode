@@ -25,7 +25,7 @@ Common block comment delimiters are
  * ``(*`` .. ``*)``
  
  
- Statements
+Statements
 ==========
 
 End of simple statement (sentence) is usually
