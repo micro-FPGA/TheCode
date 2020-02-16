@@ -1,6 +1,5 @@
-**********
 Statements
-**********
+==========
 
 End of simple statement (sentence) is usually
  * end of line
