@@ -8,7 +8,7 @@ todo
 Comments
 ========
 
-Most languages have a concept of adding Comments to the source code. Comments are text blocks that are mostly meant to be read by humans. They are usually skipped if read by the machine.
+Most languages have a concept of adding comments to the source code. Comments are text blocks that are mostly meant to be read by humans. They are usually skipped if read by the machine.
 
 Comments can be of two different styles, either
  * line end comment - comment ends at end of line
