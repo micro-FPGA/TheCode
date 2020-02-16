@@ -84,17 +84,28 @@ C
 -
 
 
-JavaScript/WSHell
+JavaScript/WShell
 -----------------
+
+In Windows javascript can be executed directly from the command shell by starting a file with extension .js
 
 .. code:: javascript
     
     WScript.echo("Hello World!")
 
+This sample will print "Hello World!" in modal dialog box.
+
+
+
+
 Pascal/Delphi
 -------------
 
-
+.. code:: pascal
+    Program HelloWorld;
+    begin
+        Write("Hello World!)
+    end.
  
  
  
