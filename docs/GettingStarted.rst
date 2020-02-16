@@ -76,7 +76,26 @@ Keywords
 todo
  
  
+Hello World
+===========
  
+ 
+C
+-
+
+
+JavaScript/WSHell
+-----------------
+
+.. code:: javascript
+    
+WShell.echo("Hello World")
+
+
+Pascal/Delphi
+-------------
+
+
  
  
  
