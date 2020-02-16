@@ -1,5 +1,6 @@
+********
 Comments
-========
+********
 
 Most languages have a concept of adding Comments to the code. Comments are text blocks that are mostly meant to be read by humans. They are usually skipped if read by the machine.
 
@@ -12,7 +13,6 @@ Common line end comment delimiters are
  * ``//``
  * ``--``
  * ``REM``
- 
   
 Common block comment delimiters are  
  * ``/*`` .. ``*/`` 
