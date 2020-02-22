@@ -113,12 +113,19 @@ Pascal/Delphi
 
     Program HelloWorld;
     begin
+        // note: we can omit the trailing ; on the next line
         Write('Hello World!')
     end.
  
 Python
 ------
 
+.. code:: python
+
+    # this is python3 code
+    print("Hello World")
+    
+    
 
 
 
