@@ -113,16 +113,16 @@ Pascal/Delphi
 
     Program HelloWorld;
     begin
-        // note: we can omit the trailing ; on the next line
-        Write('Hello World!')
+        Write('Hello World!');
     end.
  
 Python
 ------
 
+There are many incompatible differencies in Python2 vs Python3, as Python2 is officially deprecated we only look at Python3
+
 .. code:: python
 
-    # this is python3 code
     print("Hello World")
     
     
