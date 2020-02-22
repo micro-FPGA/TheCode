@@ -131,6 +131,23 @@ Pascal/Delphi
         Write('Hello World!');
     end.
  
+PHP
+---
+
+.. code:: php
+
+    <html>
+        <head></head>
+        <body>
+            <?php echo "Hello World!"; ?>
+        </body>
+    </html>
+
+
+
+
+
+
 Python
 ------
 
