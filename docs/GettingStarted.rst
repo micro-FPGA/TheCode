@@ -106,6 +106,17 @@ C#
         }
     }
 
+HTML
+----
+
+.. code:: html
+
+    <html>
+        <head></head>
+        <body>Hello World!</body>
+    </html>
+
+
 
 JavaScript/WShell
 -----------------
