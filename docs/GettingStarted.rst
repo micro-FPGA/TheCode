@@ -168,7 +168,20 @@ There are many incompatible differencies in Python2 vs Python3, as Python2 is of
 
     print("Hello World")
     
+Verilog
+-------
+
+.. code:: verilog
+
+    module top(
+        output LED
+        );
     
+    assign LED = 1'b1;
+    
+    endmodule
+
+The above code will make one connected LED lit.
 
 
 
