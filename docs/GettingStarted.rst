@@ -183,7 +183,23 @@ Verilog
 
 The above code will make one connected LED lit.
 
+VHDL
+----
 
+.. code:: vhdl
+
+    library IEEE;
+    use IEEE.STD_LOGIC_1164.ALL;
+
+    entity top is
+        Port ( LED : out STD_LOGIC);
+    end top;
+
+    architecture Behavioral of top is
+
+    begin
+        LED <= '1';
+    end Behavioral;
 
 
 
