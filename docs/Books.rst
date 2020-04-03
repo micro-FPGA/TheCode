@@ -15,6 +15,7 @@ Online learning and tutorials
  * https://www.learnpython.org/ 
  * https://github.com/ronreiter/interactive-tutorials
  * https://ebookfoundation.github.io/free-programming-books/
+ * https://alexd106.github.io/intro2R/
  
  
  
